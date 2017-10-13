@@ -14,7 +14,7 @@ Marklets.com (site is completely dead and non working, but has some useful (but 
   
 # userscripts vs bookmarklets
 
-bookmarklets are more simpler or loaded at user ill, userscripts are parallel loading locally javascript code that changes interaction on webpages
+bookmarklets are more simple or loaded at user will, userscripts are locally parallel-based loading javascript code that changes interaction on webpages
 
 
 # list (javascript sources on src/folder as files .js)
@@ -26,3 +26,9 @@ https://github.com/Miserlou/Glance-Bookmarklet
 https://github.com/brandly/OpenSpritz
 https://www.gun.io/blog/openspritz-a-free-speed-reading-bookmarklet
 
+- PrintLiminator
+
+- DOM Monster
+... etc
+
+*PD: Using soome bookmarklets as Javascript snippet follows KISS (Keep It Simple Stupid) principle for simple repetitive tasks instead of using pure (crap,shit) extensions, addons for everything
