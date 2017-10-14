@@ -1,16 +1,27 @@
-# bookmarklets-collection-ECMAscript-compliant
+# (WIP) bookmarklets-collection-ECMAscript-compliant
 A curated selection of useful bookmarklets as javascript snippets, credits to respective authors
 
 # sources
 
-Gist.GitHub
-Marklets.com (site is completely dead and non working, but has some useful (but known bookmarklets)
+- Gist.GitHub
+- Marklets.com (site is completely dead and non working, but has some useful (but known bookmarklets)
+...
 
 # ideas and keywords for more research 
 
-  DOM 
-  keywords
-  scraping 
+ - DOM 
+ - keywords
+ - scraping 
+ - inject libraries
+ - Underscore
+ - ArtoJs
+ - print
+ - node deletion 
+ - agile DOM inspection 
+ - nGrams and semantic extraction 
+ - regEx 
+ - WebExtensions and addons lightweight replacers
+  
   
 # userscripts vs bookmarklets
 
