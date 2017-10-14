@@ -21,7 +21,15 @@ A curated selection of useful bookmarklets as javascript snippets, credits to re
  - nGrams and semantic extraction 
  - regEx 
  - WebExtensions and addons lightweight replacers
-  
+ - translation and language assistance
+ - CSS
+ - webArchiving 
+ - links management, link, rot, checking 
+ - highlight
+ - pagination, lazy load
+ - embed metadata
+ - embed media 
+ - API submissions
   
 # userscripts vs bookmarklets
 
@@ -33,9 +41,9 @@ bookmarklets are more simple or loaded at user will, userscripts are locally par
 *further reading about
  . article@Wikipedia"Rapid serial visual presentation" and query@Google agile learning methods of readings asimilations
 
-https://github.com/Miserlou/Glance-Bookmarklet
-https://github.com/brandly/OpenSpritz
-https://www.gun.io/blog/openspritz-a-free-speed-reading-bookmarklet
+- https://github.com/Miserlou/Glance-Bookmarklet
+- https://github.com/brandly/OpenSpritz
+- https://www.gun.io/blog/openspritz-a-free-speed-reading-bookmarklet
 
 - PrintLiminator
 
